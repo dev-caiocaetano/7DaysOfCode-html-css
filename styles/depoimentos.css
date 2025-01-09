@@ -1,0 +1,44 @@
+.depoimentos {
+    display: flex;
+    text-align: center;
+    background-color: rgba(142, 36, 36, 0.05);
+    border-radius: 20px;
+    margin: 6em;
+    padding: 4em 2em;
+    
+}
+
+.foto__colaborador {
+    width: 56px;
+    height: 56px;    
+    border-radius: 100%;
+}
+
+.titulo__depoimentos {
+    font-family: var(--fonte-principal);
+    color: var(--cor-terciaria);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.depoimento__colaborador {
+    font-family: var(--fonte-principal);
+    color: var(--cor-quartenaria);
+    font-size: 44px;
+    font-weight: 500;
+}
+
+.nome__colaborador {
+    font-family: var(--fonte-principal);
+    color: var(--cor-quartenaria);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.função__colaborador {
+    font-family: var(--fonte-principal);
+    color: var(--cor-primaria);
+    font-size: 14px;
+    font-weight: 400;
+}
+

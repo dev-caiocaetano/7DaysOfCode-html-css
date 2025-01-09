@@ -1,0 +1,26 @@
+.sobre {
+    text-align: center;
+    padding: 96px 324px;
+}
+
+.sobre__nos{
+    color: var(--cor-terciaria);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.sobre__titulo {
+    color: var(--cor-quartenaria);
+    font-family: var(--fonte-principal);
+    font-size: 48px;
+    font-weight: 600;
+    margin: 24px 0 24px 0;
+}
+
+.sobre__texto {
+    color: var(--cor-primaria);
+    font-family: var(--fonte-principal);
+    font-size: 20px;
+    font-weight: 400;
+}

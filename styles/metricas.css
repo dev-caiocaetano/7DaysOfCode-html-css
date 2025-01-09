@@ -1,0 +1,27 @@
+.metricas {
+    display: flex;
+    padding: 0 112px;
+    gap: 32px;
+}
+
+.metrica__numero {
+    color: var(--cor-terciaria);
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.metrica__titulo {
+    color: var(--cor-quartenaria);
+    font-family: var(--fonte-principal);
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.metrica__texto {
+    color: var(--cor-primaria);
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 18px;
+    right: 40px;
+}
